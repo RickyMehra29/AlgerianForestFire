@@ -3,10 +3,9 @@
 ### Softwares and Tools Requirements
 
 1. [Github Account](https://github.com)
-2. [Heroku Account](https://Heroku.com/)
-3. [VS Code IDE](https://code.visualdtudio.com/)
-4. [Git Cli](https://cli.github.com/)
-5. [Heroku](https://id.heroku.com/)
+2. [VS Code IDE](https://code.visualdtudio.com/)
+
+
 
 # To create a new environment
 
